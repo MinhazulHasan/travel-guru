@@ -1,0 +1,11 @@
+.con {
+  max-width: 90vw;
+  margin: 5px 3rem;
+}
+
+@media (max-width: 792px) {
+  .con {
+    margin-left: 0;
+    padding: 0.5rem;
+  }
+}

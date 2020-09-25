@@ -1,0 +1,50 @@
+.main-page {
+    background: url(../../images/Rectangle\ 1.png) no-repeat;
+    background-size: 100% 100%;
+    min-height: 100vh;
+}
+.dark-overlay {
+    min-height: 100vh;
+    width: 100%;
+    color: #fff;
+    background: #000000b3;
+}
+.place-description {
+    border-radius: 20px;
+    height: 360px;
+    margin: 15px;
+    color: white;
+    transition: transform 0.5s ease;
+}
+.place-description:hover {
+    text-decoration: none;
+    color: white;
+    font-weight: 900;
+    transform: scale(1.02);
+}
+.place-image {
+    height: 100%;
+    border-radius: 20px;
+}
+.arrow-button-field button {
+    background: none;
+    border: none;
+    outline: none;
+}
+.place-name {
+    bottom: 40px;
+    position: sticky;
+}
+.selected-place {
+    border: 3px solid #d4c114;
+    box-shadow: 0px 0px 15px rgba(221, 207, 9, 0.979);
+}
+.arrow-icon {
+    color: #fff;
+    margin: 0 10px;
+}
+.arrow-icon:active {
+    color: #fff;
+    transform: scale(0.9);
+}
+  

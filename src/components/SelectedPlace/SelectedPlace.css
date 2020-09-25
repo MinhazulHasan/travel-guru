@@ -1,0 +1,22 @@
+.select-place {
+    background: url(../../images/Rectangle\ 1.png) no-repeat;
+    background-size: 100% 100%;
+    min-height: 100vh;
+}
+.dark-overlay {
+    min-height: 100vh;
+    width: 100%;
+    color: #fff;
+    background: #000000b3;
+}
+.submitted-form .input-field {
+    background: #f2f2f2;
+    font-weight: 700;
+}
+.submitted-form {
+    background: white;
+    border-radius: 5px;
+    padding: 16px;
+    color: #000;
+}
+  

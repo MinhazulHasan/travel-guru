@@ -1,0 +1,43 @@
+.form-body {
+	color: #fff;
+    font-family: 'Roboto', sans-serif;
+	height: 100vh;
+}
+.signup-form {
+	width: 400px;
+	margin: 30px auto;
+}
+.signup-form Form {
+	border-radius: 3px;
+	margin-bottom: 15px;
+	background: #fff;
+	box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+	padding: 10px 30px;
+}
+.signup-form h4  {
+	color: #333;
+	font-weight: bold;
+	margin-top: 0;
+}
+.signup-form hr  {
+	margin: 0 -30px 20px;
+}
+.orSection div {
+	background-color: black;
+	height: 1px;
+	width: 50%;
+}
+.signup-form Form a {
+	color: #ffc107;
+}
+.social-media-btn {
+    border-radius: 50px !important;
+}
+.social-media-btn img {
+    height: 30px;
+    margin-right: 1rem;
+}
+span.toggle-text {
+	color: tomato;
+	cursor: pointer;
+}
