@@ -1,8 +1,8 @@
 # Travel Guru
 ---
 ### Travel Agency Site
-- (Live Website)[https://travel-guru-4fab6.web.app/ "Click For View Live Site"]
-- (Clint Site Code)[https://github.com/MinhazulHasan/travel-guru "Click For View Clint Site Code"]
+- [Live Website](https://travel-guru-4fab6.web.app/ "Click For View Live Site")
+- [Clint Site Code](https://github.com/MinhazulHasan/travel-guru "Click For View Clint Site Code")
 ***
 ## Functionality
 - Exclusive Looking UI
