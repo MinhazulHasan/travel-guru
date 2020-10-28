@@ -25,4 +25,4 @@
 - React Font Awesome
 - Hosing with Netlify
 ***
-!(Font Page View)[https://i.ibb.co/B6FcXMF/Travel-Guru.png]
+![Font Page View](https://i.ibb.co/B6FcXMF/Travel-Guru.png)
