@@ -1,5 +1,7 @@
 # Travel Guru
 ---
+An exclusive looking web application about a travel agency where the user can book a place. Also using firebase hosting and authentication and show the selected place with Google Maps.
+***
 ### Travel Agency Site
 - [Live Website](https://travel-guru-4fab6.web.app/ "Click For View Live Site")
 - [Clint Site Code](https://github.com/MinhazulHasan/travel-guru "Click For View Clint Site Code")
